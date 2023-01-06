@@ -2,7 +2,9 @@
 
 <h2> Que bom ter você aqui! </h2><br>
 
-<h3> Eu sou o Raimones 🙋‍♂‍, um entusiasta, eterno aprendiz e apaixonado por tecnologia 🤖. </h3><br>
+<h3> Eu sou o Raimones 🙋‍♂‍, um eterno aprendiz, entusiasta de tecnologia 🤖. </h3>
+
+----
 
 <h1> 📊 GitHub Stats: </h1>
 <div align="center">
@@ -11,12 +13,16 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimonesbarros&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+----
+
 <h1> 🌐 Socials: </h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/silva-barros-b6577492/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/raimones-barros-b6577492/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/silvabarross/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:raimonesrsb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+----
 
 <h1> 💻 Tech Stack: </h1>
   
