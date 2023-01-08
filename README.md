@@ -1,6 +1,6 @@
 <h1> Olá 👋 </h1>
 
-<h2> Que bom ter você aqui! </h2><br>
+<!--<h2> Que bom ter você aqui! </h2><br>-->
 
 <h3> Eu sou o Raimones 🙋‍♂‍, um eterno aprendiz, entusiasta de tecnologia 🤖. </h3>
 
