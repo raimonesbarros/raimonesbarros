@@ -1,6 +1,4 @@
-<h1> Olá 👋 </h1>
-
-<!--<h2> Que bom ter você aqui! </h2><br>-->
+<h1> Olá 👋, <span>é bom ter você aqui! 🤝</span> </h1>
 
 <h3> Eu sou o Raimones 🙋‍♂‍, um eterno aprendiz, entusiasta de tecnologia 🤖. </h3>
 
@@ -10,9 +8,11 @@
 <div align="center">
   <a href="https://github.com/raimonesbarros">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raimonesbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimonesbarros&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimonesbarros&layout=compact&langs_count=7&theme=dark">
 </div>
-
+<p> *Os commits não estão sendo usados corretamente, eu sei, está sendo apenas minha maneira de acompanhar meu progresso de prática diária.<br>
+    A meta de 2023 é praticar todos os dias. Agradeço a compreensão.</p>
+  
 ----
 
 <h1> 🌐 Socials: </h1>
@@ -41,6 +41,12 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
+  
+----
+  
+<h2 align="center">Fique à vontade!</h2>
+  
+----
 
 <!-- cobrinha escondida
 <div align="center">
