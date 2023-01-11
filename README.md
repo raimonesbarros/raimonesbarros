@@ -1,6 +1,8 @@
 <h1> Olá 👋, <span>é bom ter você aqui! 🤝</span> </h1>
+<h1> Hello, <span> nice to have you here! </span> </h1>
 
 <h3> Eu sou o Raimones 🙋‍♂‍, um eterno aprendiz, entusiasta de tecnologia 🤖. </h3>
+<h3> I'm Raimones, a lifelong learner, technology enthusiast. </h3>
 
 ----
 
@@ -45,6 +47,8 @@
 ----
   
 <h2 align="center">Fique à vontade!</h2>
+<h2 align="center">Feel free!</h2>
+  
   
 ----
 
