@@ -10,9 +10,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raimonesbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimonesbarros&layout=compact&langs_count=7&theme=dark">
 </div>
-<p> *Os commits não estão sendo usados corretamente, eu sei, está sendo apenas minha maneira de acompanhar meu progresso de prática diária.<br>
-    A meta de 2023 é praticar todos os dias. Agradeço a compreensão.</p>
-  
+<!--<p> *Os commits não estão sendo usados corretamente, eu sei, está sendo apenas minha maneira de acompanhar meu progresso de prática diária.<br>
+    A meta de 2023 é praticar todos os dias. Agradeço a compreensão.</p> -->
+
 ----
 
 <h1> 🌐 Socials: </h1>
