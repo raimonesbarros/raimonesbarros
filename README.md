@@ -5,7 +5,7 @@
 <h3> I'm Raimones, a lifelong learner, technology enthusiast. </h3>
 
 ----
-
+<!--
 <h1> 📊 GitHub Stats: </h1>
 <div align="center">
   <a href="https://github.com/raimonesbarros">
