@@ -1,11 +1,14 @@
 <h1> Olá 👋, <span>é bom ter você aqui! 🤝</span> </h1>
-<h1> Hello, <span> nice to have you here! </span> </h1>
 
+<h3> Eu sou o Raimones 🙋‍♂‍, profissional do comércio, desempregado, entusiasta de tecnologia 🤖, em fase de transição de carreira 🚀. </h3>
+<h5> Autodidata por necessidade, sem cursos profissionalizantes no curriculo e nem condições financeiras, possuo bastante conhecimento na área de informática: Montagem e manutenção de computadores, Hardwares e Softwares e no momento focado em Desenvolvimento e programação. </h5>
+  
+<!--
 <h3> Eu sou o Raimones 🙋‍♂‍, um eterno aprendiz, entusiasta de tecnologia 🤖. </h3>
-<h3> I'm Raimones, a lifelong learner, technology enthusiast. </h3>
+-->
 
 ----
-<!--
+
 <h1> 📊 GitHub Stats: </h1>
 <div align="center">
   <a href="https://github.com/raimonesbarros">
@@ -52,7 +55,7 @@
   
 ----
 
-<!-- cobrinha escondida
+
 <div align="center">
   
   ![Snake animation](https://github.com/raimonesbarros/raimonesbarros/blob/output/github-contribution-grid-snake.svg)
