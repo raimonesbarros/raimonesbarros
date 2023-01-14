@@ -9,7 +9,7 @@ Autodidata por necessidade, sem cursos profissionalizantes no curriculo e nem co
 
 ----
 
-<h1> 📊 GitHub Stats: </h1>
+<h1> 📊 GitHub Estatísticas: </h1>
 <div align="center">
   <a href="https://github.com/raimonesbarros">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raimonesbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -20,7 +20,7 @@ Autodidata por necessidade, sem cursos profissionalizantes no curriculo e nem co
 
 ----
 
-<h1> 🌐 Socials: </h1>
+<h1> 🌐 Contatos: </h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/raimones-barros-b6577492/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/silvabarross/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,19 +29,19 @@ Autodidata por necessidade, sem cursos profissionalizantes no curriculo e nem co
 
 ----
 
-<h1> 💻 Tech Stack: </h1>
+<h1> 💻 Tecnologias: </h1>
   
 <div align="center">
 
-<h5> Current Techs <h5>
+<h5> Atuais <h5>
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<h5> Studying <h5>
+<h5> Estudando <h5>
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<h5> Next techs <h5>
+<h5> Estudar <h5>
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
