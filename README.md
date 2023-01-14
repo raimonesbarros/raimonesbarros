@@ -1,7 +1,7 @@
 <h1> Olá 👋, <span>é bom ter você aqui! 🤝</span> </h1>
 
 <h3> Eu sou o Raimones 🙋‍♂‍, profissional do comércio, desempregado, entusiasta de tecnologia 🤖, em fase de transição de carreira 🚀. </h3>
-<h5> Autodidata por necessidade, sem cursos profissionalizantes no curriculo e nem condições financeiras, possuo bastante conhecimento na área de informática: Montagem e manutenção de computadores, Hardwares e Softwares e no momento focado em Desenvolvimento e programação. </h5>
+Autodidata por necessidade, sem cursos profissionalizantes no curriculo e nem condições financeiras, possuo bastante conhecimento na área de informática: Montagem e manutenção de computadores, Hardwares e Softwares e no momento focado em Desenvolvimento e programação.
   
 <!--
 <h3> Eu sou o Raimones 🙋‍♂‍, um eterno aprendiz, entusiasta de tecnologia 🤖. </h3>
@@ -12,8 +12,8 @@
 <h1> 📊 GitHub Stats: </h1>
 <div align="center">
   <a href="https://github.com/raimonesbarros">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raimonesbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimonesbarros&layout=compact&langs_count=7&theme=dark">
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raimonesbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raimonesbarros&layout=compact&langs_count=7&theme=dark">
 </div>
 <!--<p> *Os commits não estão sendo usados corretamente, eu sei, está sendo apenas minha maneira de acompanhar meu progresso de prática diária.<br>
     A meta de 2023 é praticar todos os dias. Agradeço a compreensão.</p> -->
@@ -50,7 +50,6 @@
 ----
   
 <h2 align="center">Fique à vontade!</h2>
-<h2 align="center">Feel free!</h2>
   
   
 ----
