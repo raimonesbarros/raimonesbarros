@@ -1,7 +1,7 @@
 <h1> Olá 👋, <span>é bom ter você aqui! 🤝</span> </h1>
 
 <h3> Eu sou o Raimones 🙋‍♂‍, profissional do comércio, desempregado, entusiasta de tecnologia 🤖, em fase de transição de carreira 🚀. </h3>
-Autodidata por necessidade, sem cursos profissionalizantes no curriculo e nem condições financeiras, possuo bastante conhecimento na área de informática: Montagem e manutenção de computadores, Hardwares e Softwares e no momento focado em Desenvolvimento e programação.
+Autodidata por necessidade, sem certificados ou cursos profissionalizantes pagos, possuo conhecimentos na área de Tecnologia da informação. Montagem e manutenção de computadores, Hardwares e Softwares e no momento focado em Desenvolvimento e Programação.
   
 <!--
 <h3> Eu sou o Raimones 🙋‍♂‍, um eterno aprendiz, entusiasta de tecnologia 🤖. </h3>
@@ -9,7 +9,7 @@ Autodidata por necessidade, sem cursos profissionalizantes no curriculo e nem co
 
 ----
 
-<h1> 📊 GitHub Estatísticas: </h1>
+<h1> 📊 Estatísticas: </h1>
 <div align="center">
   <a href="https://github.com/raimonesbarros">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raimonesbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -20,7 +20,7 @@ Autodidata por necessidade, sem cursos profissionalizantes no curriculo e nem co
 
 ----
 
-<h1> 🌐 Contatos: </h1>
+<h1> ☎️ Contatos: </h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/raimones-barros-b6577492/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/silvabarross/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
