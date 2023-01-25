@@ -1,11 +1,7 @@
 <h1> Olá 👋, <span>é bom ter você aqui! 🤝</span> </h1>
 
-<h3> Eu sou o Raimones 🙋‍♂‍, profissional do comércio, desempregado, entusiasta de tecnologia 🤖, em fase de transição de carreira 🚀. </h3>
+<h3> Eu sou o Raimones 🙋‍♂‍, profissional do comércio, entusiasta de tecnologia 🤖, em transição de carreira 🚀. </h3>
 Autodidata por necessidade, sem certificados ou cursos profissionalizantes pagos, possuo conhecimentos na área de Tecnologia da informação. Montagem e manutenção de computadores, Hardwares e Softwares e no momento focado em Desenvolvimento e Programação.
-  
-<!--
-<h3> Eu sou o Raimones 🙋‍♂‍, um eterno aprendiz, entusiasta de tecnologia 🤖. </h3>
--->
 
 ----
 
@@ -15,8 +11,6 @@ Autodidata por necessidade, sem certificados ou cursos profissionalizantes pagos
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raimonesbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raimonesbarros&layout=compact&langs_count=7&theme=dark">
 </div>
-<!--<p> *Os commits não estão sendo usados corretamente, eu sei, está sendo apenas minha maneira de acompanhar meu progresso de prática diária.<br>
-    A meta de 2023 é praticar todos os dias. Agradeço a compreensão.</p> -->
 
 ----
 
@@ -51,9 +45,7 @@ Autodidata por necessidade, sem certificados ou cursos profissionalizantes pagos
   
 <h2 align="center">Fique à vontade!</h2>
   
-  
 ----
-
 
 <div align="center">
   
