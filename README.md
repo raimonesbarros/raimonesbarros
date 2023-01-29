@@ -40,6 +40,10 @@
   <img width="70px" src="https://icongr.am/devicon/html5-original.svg?size=70&color=currentColor">
   <img width="70px" src="https://icongr.am/devicon/css3-original.svg?size=70&color=currentColor">
   <img width="70px" height="75px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png">
+  <img width="70px" height="75px" src="https://icongr.am/devicon/git-original.svg?size=70&color=currentColor">
+  <img width="70px" height="75px" src="https://icongr.am/devicon/github-original.svg?size=70&color=currentColor">
+  
+  
 </div>
 <!-- !['HTML5'](https://icongr.am/devicon/html5-original.svg?size=70&color=currentColor) !['CSS3'](https://icongr.am/devicon/css3-original.svg?size=70&color=currentColor) !['Bootstrap'](https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png)-->
 
