@@ -3,8 +3,8 @@
 <h2>É bom ter você aqui! 🤝</h2>
 
 <h3>Eu sou o Raimones 🙋‍♂‍, profissional do comércio, entusiasta de tecnologia 🤖, em transição de carreira 🚀.</h3>
-<h4>Autodidata por necessidade, sem certificados ou cursos profissionalizantes pagos, possuo conhecimentos na área de Tecnologia da informação. Montagem e manutenção    de computadores, Hardwares e Softwares e no momento focado em Desenvolvimento e Programação.</h4>
-
+<!-- <h4>Autodidata por necessidade, sem certificados ou cursos profissionalizantes pagos, possuo conhecimentos na área de Tecnologia da informação. Montagem e manutenção    de computadores, Hardwares e Softwares e no momento focado em Desenvolvimento e Programação.</h4>
+ -->
 ----
 
 <h1> 📊 Estatísticas: </h1>
