@@ -1,14 +1,14 @@
 <img align="right" width="15%" controls autoplay src="https://user-images.githubusercontent.com/104095836/214920922-ddaa4182-6a41-48bd-82a3-0f6171fa5d15.png"/>
-<h1>Olá 👋</h1>
-<h2>É bom ter você aqui! 🤝</h2>
+<h1>Hello, person. 👋</h1>
+<h2>It's good to have you here! 🤝</h2>
 
-<h3>Eu sou o Raimones 🙋‍♂‍, profissional do comércio, entusiasta de tecnologia 🤖, em transição de carreira 🚀.</h3>
+<h3>I'm Raimones 🙋‍♂‍, tech enthusiast 🤖, in career transition 🚀.</h3>
 <br>
 
 ----
 ----
 
-<h1> 📊 Estatísticas: </h1>
+<h1> 📊 Stats: </h1>
 <div align="center">
   <a href="https://github.com/raimonesbarros">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=raimonesbarros&layout=compact&langs_count=7&theme=dark" alt="raimonesbarros" />
@@ -19,7 +19,7 @@
 ----
 ----
 
-<h1> 💻 Tecnologias: </h1>
+<h1> 💻 Tech's: </h1>
 
 <div align="center">
 
@@ -37,12 +37,12 @@
 
   <img width="50px" height="55px" src="https://icongr.am/devicon/git-plain.svg?size=60&color=777777">
   <img width="50px" height="55px" src="./github.png">
-  
+
 </div>
 
 ----
 
-<h4> Estudando... <h4>
+<h4> Learning... <h4>
 <br>
 <div align="center">
   <img width="60px" height="60px" src="https://icongr.am/devicon/react-original.svg?size=70&color=currentColor">
@@ -52,12 +52,22 @@
 </div>
 
 </div>
-  
-----  
+
+----
+
+<h1>📁 Project's label</h1>
+README.md
+
+## project-name :label
+- ### :guided - Guided by course.
+- ### :challenge - Made from a model.
+- ### :own - Own creation.
+
+----
 ----
 
 <div align="center">
-  
+
   ![Snake animation](https://github.com/raimonesbarros/raimonesbarros/blob/output/github-contribution-grid-snake.svg)
 
 </div>
@@ -65,7 +75,7 @@
 ----
 ----
 
-<h2> ☎️ Entre em contato comigo: </h2>
+<h2> ☎️ Contact me: </h2>
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/raimones-barros-b6577492/" target="_blank">
@@ -76,6 +86,6 @@
     <img width="50px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" target="_blank"></a>
 </div>
 
-  
+
 ----
 ----
