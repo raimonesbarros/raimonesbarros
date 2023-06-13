@@ -1,4 +1,5 @@
-<img align="right" width="15%" controls autoplay src="https://user-images.githubusercontent.com/104095836/214920922-ddaa4182-6a41-48bd-82a3-0f6171fa5d15.png"/>
+<!-- <img align="right" width="15%" controls autoplay src="https://user-images.githubusercontent.com/104095836/214920922-ddaa4182-6a41-48bd-82a3-0f6171fa5d15.png"/> -->
+
 <h1>Hello, person. 👋</h1>
 <h2>It's good to have you here! 🤝</h2>
 
