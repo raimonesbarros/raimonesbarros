@@ -67,19 +67,20 @@ README.md
 ----
 ----
 
+/*
 <div align="center">
 
   ![Snake animation](https://github.com/raimonesbarros/raimonesbarros/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
+*/
 ----
 ----
 
 <h2> ☎️ Contact me: </h2>
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/raimones-barros-b6577492/" target="_blank">
+  <a href="https://www.linkedin.com/in/raimones-barros" target="_blank">
     <img src="https://icongr.am/devicon/linkedin-original.svg?size=50&color=currentColor"/></a>
   <a href = "mailto:raimonesrsb@gmail.com" target="_blank">
     <img width="50px" height="55px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a>
