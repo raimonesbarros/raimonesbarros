@@ -67,15 +67,16 @@ README.md
 ----
 ----
 
-/*
+<!--
 <div align="center">
 
   ![Snake animation](https://github.com/raimonesbarros/raimonesbarros/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-*/
+
 ----
 ----
+-->
 
 <h2> ☎️ Contact me: </h2>
 <br>
