@@ -1,9 +1,9 @@
 <!-- <img align="right" width="15%" controls autoplay src="https://user-images.githubusercontent.com/104095836/214920922-ddaa4182-6a41-48bd-82a3-0f6171fa5d15.png"/> -->
 
-<h1>Hello, person. 👋</h1>
+<h1>Hi, there. 👋</h1>
 <h2>It's good to have you here! 🤝</h2>
 
-<h3>I'm Raimones 🙋‍♂‍, tech enthusiast 🤖, in career transition 🚀.</h3>
+<h3>I'm Raimones 🙋‍♂‍, Front-end developer.</h3>
 <br>
 
 ----
@@ -31,11 +31,12 @@
 
   <br>
 
-  <img width="50px" height="55px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=60&color=777777">
-  <img width="50px" height="55px" src="https://icongr.am/feather/figma.svg?size=60&color=777777">
+  <img width="60px" height="60px" src="https://icongr.am/devicon/react-original.svg?size=70&color=777777">
+  <img width="60px" height="60px" src="https://icongr.am/devicon/typescript-original.svg?size=70&color=777777">
 
   <br>
 
+  <img width="50px" height="55px" src="https://icongr.am/feather/figma.svg?size=60&color=777777">
   <img width="50px" height="55px" src="https://icongr.am/devicon/git-plain.svg?size=60&color=777777">
   <img width="50px" height="55px" src="./github.png">
 
@@ -46,16 +47,15 @@
 <h4> Learning... <h4>
 <br>
 <div align="center">
-  <img width="60px" height="60px" src="https://icongr.am/devicon/react-original.svg?size=70&color=currentColor">
-  <img width="60px" height="60px" src="https://icongr.am/devicon/typescript-original.svg?size=70&color=currentColor">
   <img width="60px" height="60px" src="https://icongr.am/devicon/nodejs-original.svg?size=70&color=currentColor">
-
 </div>
 
 </div>
 
 ----
+----
 
+<!--
 <h1>📁 Project's label</h1>
 README.md
 
@@ -65,7 +65,7 @@ README.md
 - ### :own - Own creation.
 
 ----
-----
+-->
 
 <!--
 <div align="center">
