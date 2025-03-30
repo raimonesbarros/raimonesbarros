@@ -140,14 +140,15 @@ README.md
   <img width="40px" height="40px" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
   <img width="40px" height="40px" src="https://www.clipartmax.com/png/small/57-571642_93-of-people-would-trust-orders-from-a-robot-at-work-oracle.png">
 </div>
+<!--45c7af-->
 
 ## 📣 Vamos nos conectar!
 <div align="center">
-  <a href="https://www.raimones.dev/" target="_blank">
-    <img width="30px" height="30px" src="https://icongr.am/devicon/chrome-plain.svg?size=128&color=45c7af"/>
-  </a>
   <a href="https://www.linkedin.com/in/raimones-barros" target="_blank">
-    <img width="30px" height="35px" src="https://icongr.am/devicon/linkedin-original.svg?size=50&color=currentColor"/>
+    <img width="30px" height="30px" src="https://icongr.am/devicon/linkedin-original.svg?size=50&color=currentColor"/>
+  </a>
+  <a href="https://www.raimones.dev/" target="_blank">
+    <img width="30px" height="30px" src="https://icongr.am/devicon/chrome-original.svg?size=128&color=currentColor"/>
   </a>
   <a href = "mailto:raimonesrsb@gmail.com" target="_blank">
     <img width="30px" height="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank">
