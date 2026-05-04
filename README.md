@@ -167,6 +167,6 @@ README.md
 
 ---
 
-> "Comece hoje a ser quem você quer ser no futuro"
+> "Comece a ser, hoje, quem você quer ser no futuro!"
 
 ---
