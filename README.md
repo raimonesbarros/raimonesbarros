@@ -1,172 +1,83 @@
-<!-- <img align="right" width="15%" controls autoplay src="https://user-images.githubusercontent.com/104095836/214920922-ddaa4182-6a41-48bd-82a3-0f6171fa5d15.png"/> -->
-<!--
-<h1>Hi, there. 👋</h1>
-<h2>It's good to have you here! 🤝</h2>
-
-<h3>I'm Raimones 🙋‍♂‍, Front-end developer.</h3>
-<br>
-
-----
-----
-
-<h1> 📊 Stats: </h1>
 <div align="center">
-  <a href="https://github.com/raimonesbarros">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=raimonesbarros&layout=compact&langs_count=7&theme=dark" alt="raimonesbarros" />
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raimonesbarros&layout=compact&langs_count=7&theme=dark">
-  </a>
-</div>
-
-----
-----
-
-<h1> 💻 Tech's: </h1>
-
-<div align="center">
-
-<div align="center">
-  <img width="50px" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-  <img width="50px" src="https://icongr.am/devicon/css3-plain.svg?size=60&color=777777">
-  <img width="50px" height="50px" src="https://icongr.am/devicon/javascript-plain.svg?size=60&color=777777">
-
-  <br>
-
-  <img width="60px" height="60px" src="https://icongr.am/devicon/react-original.svg?size=70&color=777777">
-  <img width="60px" height="60px" src="https://icongr.am/devicon/typescript-original.svg?size=70&color=777777">
-
-  <br>
-
-  <img width="50px" height="55px" src="https://icongr.am/feather/figma.svg?size=60&color=777777">
-  <img width="50px" height="55px" src="https://icongr.am/devicon/git-plain.svg?size=60&color=777777">
-  <img width="50px" height="55px" src="./github.png">
-
-</div>
-
-----
-
-<h4> Learning... <h4>
-<br>
-<div align="center">
-  <img width="60px" height="60px" src="https://icongr.am/devicon/nodejs-original.svg?size=70&color=currentColor">
-</div>
-
-</div>
-
-----
-----
-
-<!--
-<h1>📁 Project's label</h1>
-README.md
-
-## project-name :label
-- ### :guided - Guided by course.
-- ### :challenge - Made from a model.
-- ### :own - Own creation.
-
-----
--->
-
-<!--
-<div align="center">
-
-  ![Snake animation](https://github.com/raimonesbarros/raimonesbarros/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-----
-----
--->
-
-<!--
-<h2> ☎️ Contact me: </h2>
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/raimones-barros" target="_blank">
-    <img src="https://icongr.am/devicon/linkedin-original.svg?size=50&color=currentColor"/></a>
-  <a href = "mailto:raimonesrsb@gmail.com" target="_blank">
-    <img width="50px" height="55px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a>
-  <a href="https://www.instagram.com/silvabarross/" target="_blank">
-    <img width="50px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" target="_blank"></a>
-</div>
-
-
-----
-----
-
--->
-<img align="right" width="15%" controls autoplay src="https://user-images.githubusercontent.com/104095836/214920922-ddaa4182-6a41-48bd-82a3-0f6171fa5d15.png"/>
 
 # Olá, eu sou Raimones Barros 👋
 
-> Desenvolvedor Full Stack na **Kothe SA**, apaixonado por tecnologia, inovação e soluções eficientes.
+### Desenvolvedor Full Stack | Java • Spring • React • Integrações de Sistemas
 
-## 👨‍💻 Sobre mim
+Transformo regras de negócio e integrações complexas em soluções confiáveis, organizadas e fáceis de evoluir.
 
-*Sou um desenvolvedor Full Stack com experiência em **desenvolvimento web** e **integração de sistemas**. Tenho paixão por aprender e construir soluções usando tecnologia. Estou sempre buscando formas de melhorar minhas habilidades, com foco em **desenvolvimento ágil**, **automação** e **integração de sistemas**.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raimones-barros)
+[![Portfólio](https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.raimones.dev/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raimonesrsb@gmail.com)
 
-<!-- 🎓 Formação: [Sua Graduação ou Certificação]-->
-- 🌍 Localização: **Tocantins, Brasil**
-- 🌱 Estudando: **Oracle PL/SQL, Spring Boot, Docker**
-- 🔭 Trabalhando em: **Integrações de Sistemas de clientes e parceiros**
-- 🤔 Estou aberto a: **Oportunidades de colaboração, novos projetos ou parcerias**
-- 😴 Sonhando com: **Home Office**
-
-## 📈 Estatísticas do GitHub
-<div align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=raimonesbarros&layout=compact&langs_count=7&theme=dark" alt="raimonesbarros" />
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raimonesbarros&layout=compact&langs_count=7&theme=dark">
-  <!--<img height="150em" src="https://github-readme-stats.vercel.app/api?username=raimonesbarros&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical"> -->  
 </div>
 
-## 💻 Tecnologias e mais
-> Linguagens, Frameworks, Bibliotecas, Ferramentas de Desenvolvimento
+## Sobre mim
+
+Sou desenvolvedor Full Stack na **Kothe S.A.**, com experiência na construção e manutenção de aplicações web, APIs e integrações entre ERPs, clientes e parceiros.
+
+Atuo do banco de dados à interface, transformando necessidades do negócio em software sustentável. Tenho interesse especial por automação, integração de sistemas e melhoria contínua da qualidade do código.
+
+- 📍 Tocantins, Brasil
+- 💼 Atualmente: integrações de sistemas e soluções corporativas
+- 📚 Em evolução: Oracle PL/SQL, Spring Boot e Docker
+- 🤝 Aberto a colaborar em projetos e trocar experiências sobre desenvolvimento de software
+
+## Como gero valor
+
+- Desenvolvimento e manutenção de **APIs e integrações corporativas**
+- Implementação de **regras de negócio** com foco em clareza e manutenibilidade
+- Construção de soluções **full stack**, do banco de dados à experiência do usuário
+- Automação de processos para reduzir trabalho manual e falhas operacionais
+
+## Tecnologias
+
+### Back-end
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### Front-end
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Dados e ferramentas
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## Experiência em destaque
+
+| Frente | Atuação |
+| --- | --- |
+| Integrações | Comunicação entre ERP, clientes, parceiros e serviços externos por meio de APIs |
+| Sistemas web | Desenvolvimento full stack com Java, JavaScript, TypeScript e React |
+| Back-end | Construção e evolução de serviços, módulos e regras de negócio em Java |
+| Dados | Consultas, rotinas e integrações com Oracle, PostgreSQL e MySQL |
+
+## Atividade no GitHub
 
 <div align="center">
-  <img width="40px" height="40px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-  <img width="40px" height="40px" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
-  <img width="40px" height="40px" src="https://icongr.am/devicon/react-original.svg?size=70&color=currentColor">
-  <img width="40px" height="40px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
-  
-  <img width="40px" height="40px" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-  <img width="40px" height="40px" src="https://www.clipartmax.com/png/small/117-1171017_spring-logo-spring-framework-logo.png">
-  
-  <img width="40px" height="40px" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-  <img width="40px" height="40px" src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff">
-  <img width="40px" height="40px" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
-  
-  <img width="40px" height="40px" src="https://icongr.am/entypo/database.svg?size=128&color=ffffff">
-  <img width="40px" height="40px" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
-  <img width="40px" height="40px" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
-  <img width="40px" height="40px" src="https://www.clipartmax.com/png/small/57-571642_93-of-people-would-trust-orders-from-a-robot-at-work-oracle.png">
-</div>
-<!--45c7af-->
-
-## 📣 Vamos nos conectar!
-<div align="center">
-  <a href="https://www.linkedin.com/in/raimones-barros" target="_blank">
-    <img width="30px" height="30px" src="https://icongr.am/devicon/linkedin-original.svg?size=50&color=currentColor"/>
+  <a href="https://github.com/raimonesbarros">
+    <img height="165" alt="Estatísticas públicas de Raimones no GitHub" src="https://github-readme-stats.vercel.app/api?username=raimonesbarros&show_icons=true&hide_border=true&locale=pt-br&theme=github_dark" />
   </a>
-  <a href="https://www.raimones.dev/" target="_blank">
-    <img width="30px" height="30px" src="https://icongr.am/devicon/chrome-original.svg?size=128&color=currentColor"/>
-  </a>
-  <a href = "mailto:raimonesrsb@gmail.com" target="_blank">
-    <img width="30px" height="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/silvabarross/" target="_blank">
-    <img width="30px" height="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" target="_blank">
+  <a href="https://github.com/raimonesbarros">
+    <img height="165" alt="Linguagens mais usadas nos repositórios públicos de Raimones" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimonesbarros&layout=compact&langs_count=6&hide_border=true&locale=pt-br&theme=github_dark&size_weight=0.5&count_weight=0.5" />
   </a>
 </div>
 
-<!--
-- 🌐 [Portfólio](https://www.raimones.dev)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/raimones-barros)
-- 📧 [E-mail](mailto:raimonesrg3@gmail.com)
-- 📷 [Instagram](https://www.instagram.com/silvabarross)
--->
+> Os cards acima consideram os repositórios públicos do GitHub e não representam, isoladamente, nível de experiência profissional.
 
----
+## Vamos conversar?
 
-> "Comece a ser, hoje, quem você quer ser no futuro!"
+Se você quer trocar ideias sobre **Java, Spring, React, APIs, automação ou integração de sistemas**, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/raimones-barros) ou por [e-mail](mailto:raimonesrsb@gmail.com).
 
----
