@@ -13,7 +13,7 @@ Integrações de sistemas e customizações de ERP na **Kothe SA**
 
 ## O que eu faço
 
-Construo e mantenho **integrações entre sistemas** — o encanamento que faz o ERP conversar
+Construo e mantenho **integrações entre sistemas** — a conexão que faz a Kothe se comunicar
 com clientes, parceiros e bancos sem intervenção manual.
 
 - **Integrações & APIs** — troca de dados entre ERP, clientes e parceiros; consumo e exposição de serviços REST/SOAP.
