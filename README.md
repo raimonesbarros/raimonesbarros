@@ -7,7 +7,7 @@ Integrações de sistemas e customizações de ERP na **Kothe SA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raimones-barros)
 [![Portfólio](https://img.shields.io/badge/raimones.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.raimones.dev/)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raimonesrsb@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raimonesbarros@gmail.com)
 
 ---
 
